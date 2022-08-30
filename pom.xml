@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.Bank</groupId>
-	<artifactId>BankCreditTransaction</artifactId>
+	<artifactId>BankSavingTransaction</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>BankCreditTransaction</name>
-	<description>Project for Credit transactions</description>
+	<name>BankSavingTransaction</name>
+	<description>Project for Saving transactions</description>
 	<properties>
 		<java.version>11</java.version>
 		<spring-cloud.version>2021.0.3</spring-cloud.version>

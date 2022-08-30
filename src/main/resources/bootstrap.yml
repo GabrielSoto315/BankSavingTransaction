@@ -1,6 +1,6 @@
 spring:
   application:
-    name: BankCreditTransaction
+    name: BankSavingTransaction
 
   cloud:
     config:
